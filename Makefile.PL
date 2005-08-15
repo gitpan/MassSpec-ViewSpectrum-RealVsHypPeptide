@@ -8,5 +8,5 @@ WriteMakefile(
     PREREQ_PM         => {}, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/MassSpec/ViewSpectrum/RealVsHypPeptide.pm', # retrieve abstract from module
-       AUTHOR         => 'epsteinj <epsteinj@familiehaase.de>') : ()),
+       AUTHOR         => 'Jonathan Epstein <Jonathan_Epstein@nih.gov>') : ()),
 );
